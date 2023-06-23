@@ -1,9 +1,9 @@
 ### 리뷰어(push한 사람): 김영신
 
-# 제목 Tesla’s Supercharger cost revealed to be just one-fifth of the competition in losing home state bid
+# Tesla’s Supercharger cost revealed to be just one-fifth of the competition in losing home state bid
 
 
-## 소제목
+## 테슬라 슈퍼차저, 지역 전력 요금 고려로 비용 절감
 
 
 ### 기사내용 요약
@@ -19,4 +19,4 @@
 테슬라 슈퍼차저의 저렴한 설치 비용은 테슬라 전기차의 경쟁력을 높이는 데 도움이 될 것으로 기대됩니다. 테슬라 전기차는 슈퍼차저를 사용하여 빠르게 충전할 수 있습니다. 테슬라 슈퍼차저의 설치 비용이 저렴해지면 테슬라 전기차의 충전 비용도 낮아질 것입니다. 이는 테슬라 전기차의 가격 경쟁력을 높이는 데 도움이 될 것입니다.
 
 ### 원본기사 링크
-https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/
+[electrek.co](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
