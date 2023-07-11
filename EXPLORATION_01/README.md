@@ -36,4 +36,12 @@
 mse = mean_squared_error(y_test, y_pred)
 rmse = mean_squared_error(y_test, y_pred, squared=False)
 # 출처: https://growingsaja.tistory.com/233
+
+# Datetime64 형식으로 변경하는 방법
+# 참고2: httpsL//blog.naver.com/wideeyed/221603462366
+train["datetime"] = pd.to_datetime(train["datetime"], format='%Y-%m-%d %H:%M:%S', errors='raise')
+
+# subplot에서 간격 자동 조절
+# 옵션 참고: https://steadiness-193.tistory.com/174
+fig, ax = plt.subplots(2, 3, constrained_layout=True)
 ```
