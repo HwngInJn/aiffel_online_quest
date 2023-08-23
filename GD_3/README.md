@@ -2,7 +2,7 @@
 - 코더 : 황인준
 - 리뷰어 : 윤상현
 
-![WEAT](./WEAT.png)
+![WEAT](./weat.png)
 
 # PRT(PeerReviewTemplate) 
 각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다.
