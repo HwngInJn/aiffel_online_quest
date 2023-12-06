@@ -1,1 +1,0 @@
-# aiffel_online_quest
